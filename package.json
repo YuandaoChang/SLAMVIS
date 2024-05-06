@@ -1,0 +1,22 @@
+{
+  "name": "slamvis",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.5.0",
+    "gl-matrix": "^3.4.3",
+    "reconnecting-websocket": "^4.4.0",
+    "three": "^0.157.0",
+    "vue": "^3.3.4",
+    "vue-native-websocket": "^2.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
